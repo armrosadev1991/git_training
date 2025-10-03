@@ -1,1 +1,20 @@
+#Environment files
 .env
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon file
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in external disk volumes
+.Spotlight-V100
+.Trashes
+
+# macOS specific metadata files
+.fseventsd
+.apdisk
